@@ -1,0 +1,37 @@
+/*@font-face {
+  font-family: AcuminProSemiCond;
+  src: local(AcuminProSemiCond-Regular),
+  url(../../fonts/AcuminProSemiCond-Regular/AcuminProSemiCond-Regular.woff2) format("woff2"),
+  url(../../fonts/AcuminProSemiCond-Regular/AcuminProSemiCond-Regular.woff) format("woff"),
+  url(../../fonts/AcuminProSemiCond-Regular/AcuminProSemiCond-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: AcuminProSemiCond;
+  src: local(AcuminProSemiCond-Medium),
+  url(../../fonts/AcuminProSemiCond-Medium/AcuminProSemiCond-Medium.woff2) format("woff2"),
+  url(../../fonts/AcuminProSemiCond-Medium/AcuminProSemiCond-Medium.woff) format("woff"),
+  url(../../fonts/AcuminProSemiCond-Medium/AcuminProSemiCond-Medium.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}*/
+
+@font-face {
+  font-family: 'boxicons';
+  src: local(boxicons),
+
+  url('../../fonts/boxicons.eot') format('embedded-opentype'),
+  url('../../fonts/boxicons.woff2') format('woff2'),
+  url('../../fonts/boxicons.woff') format('woff'),
+  url('../../fonts/boxicons.ttf') format('truetype'),
+  url('../../fonts/boxicons.svg?#boxicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+
+}
+
+  .bx{font-family:'boxicons'!important;font-weight:normal;font-style:normal;font-variant:normal;line-height:1;display:inline-block;text-transform:none;speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}

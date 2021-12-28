@@ -1,0 +1,36 @@
+#work_banner {
+    background-image: url('./assets/img/banner-bg-02.jpg');
+    background-position: center center; background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  .progress {
+    height: 8px;
+  }
+  .objective-icon {
+    border-radius: 13px;
+    width: 8rem;
+  }
+  .partner-wap {
+    background-color: #7276ec;
+    transition: 1s;
+    cursor: pointer;
+  }
+  .partner-wap:hover {
+    background-color: #b1b3f5;
+  }
+  .why-us {
+    background: rgb(239,239,253);
+    background: -moz-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
+    background: -webkit-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
+    background: linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efeffd",endColorstr="#ffffff",GradientType=1);
+  }
+  .team-member-img {
+    transition-duration: 0.15s;
+  }
+  .team-member:hover .team-member-img {
+    padding: 10px !important;
+  }
+  
+  
